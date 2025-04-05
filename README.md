@@ -22,7 +22,7 @@ A collection of free online tools for image and PDF processing, conversion, and 
 
 ## 🚀 Quick Start
 
-1. **Visit the website**: [https://yourusername.github.io](https://yourusername.github.io)
+1. **Visit the website**: [https://devyangpanchal030.github.io](https://yourusername.github.io)
 2. **Select a tool** from the homepage
 3. **Upload your file** and adjust settings
 4. **Download the processed file**
@@ -32,6 +32,6 @@ A collection of free online tools for image and PDF processing, conversion, and 
 To run locally:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/devyangpanchal030/yourrepository.git
 cd yourrepository
 # Open index.html in your browser
